@@ -96,17 +96,15 @@ Customer-Data-Analysis-SQL-PowerBI
 
 ---
 
-# 📸 Dashboard Screenshots
-
 ## Executive Overview Dashboard
 
-![Executive Dashboard](Dashboard%20Screenshots/Executive%20Dashboard.png)
+![Executive Dashboard](./Executive%20Dashboard.png)
 
 ---
 
 ## Business Insights Dashboard
 
-![Business Dashboard](Dashboard%20Screenshots/Business%20Dashboard.png)
+![Business Dashboard](./Business%20Dashboard.png)
 ---
 
 # 📁 Repository Contents
